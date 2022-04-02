@@ -1,0 +1,19 @@
+{
+  "name": "Toy Stick",
+  "symbol": "TOY",
+  "image": "2.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "Hb4wYMne8nh3XuGtZ64c8557E11uYDbwpz1ZekDbKXym",
+        "share": 100
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Toy Life",
+  "symbol": "TOY",
+  "image": "1.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "Hb4wYMne8nh3XuGtZ64c8557E11uYDbwpz1ZekDbKXym",
+        "share": 100
+      }
+    ]
+  }
+}
